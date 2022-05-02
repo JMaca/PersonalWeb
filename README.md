@@ -1,0 +1,2 @@
+# PersonalWeb
+  This was a project I took on so I could build a personal website from scratch. It really helped me cement down some of the syntax and how I can get the website to do what I want. I used my knowledge of HTML , CSS , BootStrap and the JavaScript library known as Gsap. I put in some cool animations , a straight-foward layout, along with all the proper links for viewers to know more about me. 
